@@ -1,0 +1,10 @@
+1. Indent Rainbow
+2. JetBrains ReSharper
+3. Add New File
+4. Side Scroller
+5. Syntax Highlighting Pack
+6. File Icons
+7. File Nesting
+8. Image Optimizer
+9. Open Command Line
+10. Bracket Pair Colorizer 

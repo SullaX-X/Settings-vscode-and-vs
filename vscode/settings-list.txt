@@ -1,0 +1,61 @@
+{
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "Bearded Theme Milkshake Raspberry",
+	"[python]": {
+		"editor.formatOnType": true,
+		"editor.defaultFormatter": "ms-python.autopep8"
+	},
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"typescript": "typescriptreact"
+	},
+	"http.proxySupport": "fallback",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"files.autoSave": "afterDelay",
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"window.menuBarVisibility": "compact",
+	"CodeGPT.apiKey": "CodeGPT Plus",
+	"CodeGPT.model": "CodeGPT Plus",
+	"cSpell.language": "en,ru",
+	"editor.formatOnPaste": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.useTabs": true,
+	"prettier.semi": false,
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"prettier.arrowParens": "avoid",
+	"editor.wordWrap": "on",
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false, // размер таба
+	"editor.formatOnSave": true, // форматировать код при сохранении
+	"explorer.compactFolders": false, // компактные папки
+	"editor.smoothScrolling": true, // плавный скролл
+	"workbench.list.smoothScrolling": true, // плавный скролл
+	"terminal.integrated.smoothScrolling": true, // плавный скролл в терминале
+	// "editor.cursorBlinking": "expand", // мигающей курсор
+	"editor.cursorBlinking": "expand",
+	"terminal.integrated.cursorBlinking": true, // мигающей курсор
+	"editor.glyphMargin": false,
+	"editor.linkedEditing": true,
+	"editor.padding.top": 15, // отступ сверху кода
+	"vscodeGoogleTranslate.preferredLanguage": "English",
+	"workbench.editorAssociations": {
+		"*.py": "default"
+	},
+	"codesnippetsai.defaultModel": "Claude by Anthropic (Coming Soon)",
+	"git.openRepositoryInParentFolders": "never",
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"telemetry.telemetryLevel": "off",
+	"python.languageServer": "Pylance",
+	"google-translate.firstLanguage": "ru",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"debug.terminal.clearBeforeReusing": true,
+	"code-runner.showExecutionMessage": false,
+	"code-runner.clearPreviousOutput": true,
+	"cloudcode.duetAI.project": "aesthetic-codex-407517"
+}
